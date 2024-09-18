@@ -2,7 +2,7 @@
 These mistakes might be quite specific for the KUKA set-up that we have in the lab, but some are more general to the KUKA iiwa 14.
 
 ## General problems:
-**Problem: If it is not possible to run a breaktestapplication to reset the system, the joints are too far.**
+**Problem: If it is not possible to run a breaktest-application to reset the system, the joints are too far.**
 **Answer 1:** Turn the key on the kuka-pannel, and see if the mode: KRF has appeared. If it has, set the system to this mode, and run the breaktestapplication again.
 **Answer 2:** If the robot is not responding anymore and KRF doesn't appear and you did a test with a high velocity where a joint limit is probably exceeded, 
 go to the menu (LBR_iiwa7_R8_...), Mastering, do Unmaster and remaster. This will calibrate the joint again. 
