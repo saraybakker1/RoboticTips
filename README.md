@@ -7,6 +7,7 @@ Regarding robotic hardware and software details:
 Regarding general software and Linux/Ubuntu tips:
 - [CUDA](pc_software/CUDA/CUDA.md)
 - [Ubuntu](pc_software/Ubuntu_install.md)
+- [Docker](pc_software/docker.md)
 
 Tips regarding github and working with github as a Team:
 - [Github guidelines](github/git_instructions.md)
