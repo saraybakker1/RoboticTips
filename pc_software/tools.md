@@ -1,0 +1,23 @@
+## Tools to Aid Your Robotics Research
+
+- [zettlr](https://www.zettlr.com/) tool for taking notes in markdown
+- <https://quillbot.com> tool for rephrasing and summarizing text
+- [zsh](https://ohmyz.sh/) + [starship](https://starship.rs/) for a sane terminal experience
+- [Mathpix](https://mathpix.com/); take a picture of an equation to get the latex code
+- [ArXiv Sanity preserver](https://arxiv-sanity-lite.com/) for finding other relevant research in your field, saving papers etc.
+- <https://Connectedpapers.com> for finding related papers
+- [todoist](https://todoist.com/app/today) + ["how to get things done"](https://gettingthingsdone.com/) Todo tool and workflow
+- [peek](https://github.com/phw/peek) for recording your desktop on Linux
+- [Kdenlive](https://kdenlive.org/en/) for editing videos on Linux
+- [Handbrake](https://handbrake.fr/) for compressing videos on Linux without losing quality
+- Nice overview of basic Robotics PhD fundamentals:
+    - [MIT: The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
+    - [Cyrill onboarding website](http://www.ipb.uni-bonn.de/onboarding/)
+- [DVC](https://dvc.org) versioning in your git repo that is too large for git itself.
+- <https://overleaf.com> writing LaTex papers online
+- [Docker](https://www.docker.com/) containerizing applications
+- [Notion](https://www.notion.so/) taking and organizing notes
+- [Poetry](https://python-poetry.org/docs/) dependency management in Python
+- [Zotero](https://www.zotero.org/) with a tag-based workflow for managing papers
+- [Pluto notebooks](https://github.com/fonsp/Pluto.jl) like Jupypter notebooks but reactive (dependent cells update automatically when you change values)
+- [Grip](https://github.com/joeyespo/grip) render GitHub markdown offline and refresh automatically (nice for writing READMEs without re-uploading after every change)
