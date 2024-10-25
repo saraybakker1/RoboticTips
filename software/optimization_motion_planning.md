@@ -8,7 +8,7 @@
     <th>Comments</th>
   </tr>
   <tr>
-    <td>[ForcesPro](https://www.embotech.com/softwareproducts/forcespro/overview/)</td>
+    <td><a href="https://www.embotech.com/softwareproducts/forcespro/overview/">ForcesPro</td>a></td>
     <td>Very fast. Uses casadi for syntax. Licencing quite a hassle.</td>
   </tr>
   <tr>
