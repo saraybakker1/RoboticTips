@@ -10,9 +10,3 @@
 | 6             | ICRA / IROS / MRS / WAFR         |                          |                       | 
 | 7             | DARS / ISER / ISRR / FSR         | IV / ITSC                |                       | 
 | 8             | Workshops                        |                          |                       | 
-
-## Journals
-| Journals                          | Present at  | Notes                                                                                              |
-|-----------------------------------|-------------|---------------------------------------------------------------------------------------|
-| [RA-L](https://www.ieee-ras.org/publications/ra-l) | ICRA/IROS |
-| [T-RO](https://www.ieee-ras.org/publications/t-ro) | ICRA/IROS |
