@@ -1,6 +1,6 @@
 
 ## Conferences
-| Rank (approx) |                          |            |  |
+|               |                          |            |  |
 |---------------| -                        | -           | - |
 | 1             | Science / Nature / PNAS         |  |  |
 | 2             | IJRR / T-RO / Science Robotics   | T-ITS / Transportation Research Part B /C    |   | 
