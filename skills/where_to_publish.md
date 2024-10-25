@@ -1,13 +1,15 @@
 
 ## Conferences
-| Conference                        | Approx Size       | Yearly/other | Notes                                                                                              |
-|-----------------------------------|-------------------|--------------|----------------------------------------------------------------------------------------------------|
-| IROS | large | Yearly | 
-| ICRA | large | Yearly | 
-| WAFR | small | Biannual
-| Robotics: Science and Systems (RSS) | medium (single track) | Yearly
-| Multi-robot symposium (MRS) | small (single track) | Biannual | Several papers accepted from our group 
-| Distributed Autonomous Robotic Systems (DARS) | small (single track) | Biannual | 
+| Rank (approx) |                          |            |  |
+|---------------| -                        | -           | - |
+| 1             | Science / Nature / PNAS         |  |  |
+| 2             | IJRR / T-RO / Science Robotics   | T-ITS / Transportation Research Part B /C    |   | 
+| 3             | T-ASE                            | T-IV                     |      | 
+| 4             | RA-L / Autonomous Robots         |                          | Journal, fast         | 
+| 5             | Robotics Science Systems (RSS)   |                          | Conf. single track    | 
+| 6             | ICRA / IROS / MRS / WAFR         |                          |                       | 
+| 7             | DARS / ISER / ISRR / FSR         | IV / ITSC                |                       | 
+| 8             | Workshops                        |                          |                       | 
 
 ## Journals
 | Journals                          | Present at  | Notes                                                                                              |
