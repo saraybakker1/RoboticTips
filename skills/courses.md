@@ -1,7 +1,30 @@
 ## Online courses
 
+-- TODO
 
+## List of Graduate Schools
 
+<table>
+<tr>
+<th>School Name</th>
+<th>Comments</th>
+</tr>
+<tr>
+<td><a href="http://www.eeci-igsc.eu/">EECI IGSC</a></td>
+<td>
+The European Embedded Control Institute (EECI) hosts the "International
+Graduate School on Control" (EECI-IGSC) which usually has a range of great professors from
+various universities in Europe. This means that you don't only get quite nice
+content but you also get to travel a bit.
+</td>
+</tr>
+<tr>
+<td><a href="https://disc.tudelft.nl/">DISC</a></td>
+<td>
+Research school DISC is an interuniversity research institute and graduate school that unites all university groups in the Netherlands that are active in systems and control theory and engineering. It offers a nationally organized graduate programme for PhD students in this field.
+</td>
+</tr>
+</table>
 
 ## List of Summer Schools
 
