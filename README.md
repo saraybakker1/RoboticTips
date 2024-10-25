@@ -3,19 +3,21 @@ A repo with tips and trics I found out during my PhD in robotics
 
 ## Content:
 Regarding robotic hardware and software details:
+- [Robots](/robots)
 
 Regarding general software and Linux/Ubuntu tips:
-- [CUDA](pc_software/CUDA/CUDA.md)
-- [Ubuntu](pc_software/Ubuntu/Ubuntu_install.md)
-- [Docker](pc_software/docker.md)
-- [General useful tools](pc_software/tools.md)
+- [CUDA](software/CUDA.md)
+- [Ubuntu](software/Ubuntu_install.md)
+- [Docker](software/docker.md)
 
 Tips regarding github and working with github as a Team:
-- [Github guidelines](github/git_instructions.md)
+- [Github guidelines](software/git_instructions.md)
 
-On publicing papers:
-- [Where to publish](publications/where_to_publish.md)
-- [Writing tips](publications/writing_tips.md)
+Skills and publications:
+- [Where to publish](skills/where_to_publish.md)
+- [Writing tips](skills/writing_tips.md)
+- [Courses](skills/courses.md)
+- [General useful tools](skills/tools.md)
 
 
 
